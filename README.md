@@ -7,7 +7,7 @@
 <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/2025.07.07~2025.08.07-%23719CF7?style=flat&label=%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%EA%B0%84">
 
-[![Static Badge](https://img.shields.io/badge/NOTION-black?style=flat&logo=notion&logoColor=white&link=https%3A%2F%2Fwww.notion.so%2F11-1b673873401a807e9ac9fc1a35199cbc)](https://노션주소) [![Static Badge](https://img.shields.io/badge/Project%20Site-%23E11900?style=flat&logo=netlify&logoColor=white)](https://배포주소)
+[![Static Badge](https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white&link=https%3A%2F%2Fwww.notion.so%2F11-1b673873401a807e9ac9fc1a35199cbc)](https://노션주소) [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://피그마주소) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://배포주소)
 [![Static Badge](https://img.shields.io/badge/TEAM-NAME-%23fe6198?style=flat&logo=github&label=WiKi)](https://위키주소)
 
 </div>
